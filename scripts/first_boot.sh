@@ -1,6 +1,7 @@
 #! /bin/bash
 
 # Used the first time we boot our I2P node
+# Currently start at boot is bugged, service must manually be started with systemctl start i2p
 
 # Variable Setup
 
