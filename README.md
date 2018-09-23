@@ -7,3 +7,7 @@ Tools used by RTrade for managing our I2P Temporal Setup
 To remotely access the I2P console from a remote machine we can create forward the port over SSH:
 
 * `ssh -NL 7657:localhost:7657 <remote-ip>`
+
+## Links
+
+* [Port forwarding](http://127.0.0.1:7657/confignet)
